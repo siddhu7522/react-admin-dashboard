@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.container{
+  display: flex;
+}
+.otherpages{
+  flex: 4;
+}
+.link{
+  text-decoration: none;
+  color: inherit;
+}
